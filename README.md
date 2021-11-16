@@ -6,6 +6,7 @@
 
 ## Objective
 - Using data to analyse players to make decision on transfer options on a weekly basis
+- LINK: https://github.com/nguoren/Fantasy-Premier-League/blob/main/FPL%20Analysis%20as%20of%20GW%2011.ipynb
 
 ## My Team
 - #515634
