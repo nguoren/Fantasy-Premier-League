@@ -6,7 +6,21 @@
 
 ## Objective
 - Using data to analyse stats of players to make decision on transfer options on a weekly basis
-- LINK: https://github.com/nguoren/Fantasy-Premier-League/blob/main/FPL%20Analysis%20as%20of%20GW%2011.ipynb
+- _**GW 11 Analysis**_: https://github.com/nguoren/Fantasy-Premier-League/blob/main/FPL%20Analysis%20as%20of%20GW%2011.ipynb
+- _**GW 14 Analysis**_: https://github.com/nguoren/Fantasy-Premier-League/blob/main/FPL%20Analysis%20as%20of%20GW%2014.ipynb
+
+## Insights Gathered as of GW14
+1. Goalkeeper has the best points returns and value
+2. Midfielder returns the least points per game
+3. Forward has the lowest value
+4. Liverpool has the highest points returns while Newcastle has the lowest
+5. Chelsea has the highest points returns per game while Watford has the lowest
+6. Wolves is the team that has the best points returns in terms of value
+7. The current best team consists of:
+- **GK**: Sá, Ramsdale
+- **DEF**: Reguilón, Cancelo, James, Henry, Coady
+- **MID**: Smith Rowe, Gallagher, Salah, Henderson, Højbjerg
+- **FWD**: Dennis, Pukki, King
 
 ## My Team
 - #515634
